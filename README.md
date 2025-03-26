@@ -2,6 +2,17 @@
 # Hướng Dẫn Sử Dụng - Bộ Train AI  Dự Đoán Tài Xỉu
 
 ## Giới Thiệu
+Ảnh chụp màn hình:
+
+client
+
+![Client](https://i.ibb.co/wZnrV51x/Screenshot-348.png)
+
+admin 
+
+![Admin](https://i.ibb.co/ZpwP8ZhZ/Screenshot-347.png)
+
+
 Bộ ứng dụng bao gồm:
 - **sv.py**: Server Flask xử lý API, huấn luyện mô hình, lưu dữ liệu vào SQLite.
 - **client.py**: Ứng dụng giao diện người dùng giúp nhập dữ liệu, gửi yêu cầu dự đoán và phản hồi kết quả.
