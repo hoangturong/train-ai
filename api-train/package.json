@@ -1,0 +1,15 @@
+{
+	"name": "api-taixiu",
+	"version": "1.0.0",
+	"description": "api for random number game",
+	"main": "server/index.js",
+	"scripts": {
+		"start": "node server"
+	},
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.21.2",
+		"markdown-it": "^13.0.2",
+		"yargs": "^17.7.2"
+	}
+}
